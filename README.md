@@ -16,3 +16,10 @@ TO BUILD THIS SAMPLE:
 - TO RUN: npx react-native run-android
 
 ![image](https://user-images.githubusercontent.com/11386676/218126997-6407e24f-5b9e-4953-8593-ad10f973bc1f.png)
+
+
+ADDITIONAL LINKS TO DOC
+
+- SPARKSCAN VIEW CLASS definition https://github.com/Scandit/scandit-react-native-datacapture-barcode/blob/d01f77a79a22299a523bb2c98be65b7bcd0be0ff/js/SparkScanView.d.ts
+
+- DATACAPTURE VIEW definition https://github.com/Scandit/scandit-react-native-datacapture-core/blob/e33cd5ab18e83428582179c3743615fdfa74a7a0/js/DataCaptureView.d.ts
